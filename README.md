@@ -1,13 +1,14 @@
-#Trabajo integrador: Búsqueda y ordenamiento 
-##Progrmación
+# Trabajo integrador: Búsqueda y ordenamiento 
+## Progrmación
 
-###Alumnos: Fausto Gagliano (Comisión 2) faustogagliano05@gmail.com 
-###Fernando Aguiar (Comisión 1) fercovichargento@gmail.com
+## Alumnos: 
+### Fausto Gagliano (Comisión 2) faustogagliano05@gmail.com 
+### Fernando Aguiar (Comisión 1) fercovichargento@gmail.com
 
 
 
-###Profesor: 
-###Fecha de entrega: 09/06
+## Profesor: 
+## Fecha de entrega: 09/06
 
 
 - bla bla bla
@@ -20,4 +21,4 @@
   <li>Francia</li>
   <li>tres</li>
   <li>cuatro</li>
-</ol> 
+</ol>
