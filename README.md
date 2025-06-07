@@ -2,7 +2,7 @@
 ##Progrmación
 
 ###Alumnos: Fausto Gagliano (Comisión 2) faustogagliano05@gmail.com 
-### Fernando Aguiar (Comisión 1) fercovichargento@gmail.com
+###Fernando Aguiar (Comisión 1) fercovichargento@gmail.com
 
 
 
