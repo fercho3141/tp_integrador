@@ -7,7 +7,7 @@
 
 
 
-## Profesor: 
+## Profesor: Cinthia Rigoni
 ## Fecha de entrega: 09/06
 
 Nuestro trabajo es una gestion de inventario destinada a una empresa de ventas de alimentos, la misma va a ser utilizada para llevar un control de cantidades, precios y productos que la empresa adquirio.
