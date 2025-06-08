@@ -10,7 +10,7 @@
 ## Profesor: 
 ## Fecha de entrega: 09/06
 
-Nuestro trabajo esta es una gestion de inventario destinada a una empresa de ventas de alimentos, la misma va a ser utilizada para llevar un control de cantidades, precios y productos que la empresa adquirio.
+Nuestro trabajo es una gestion de inventario destinada a una empresa de ventas de alimentos, la misma va a ser utilizada para llevar un control de cantidades, precios y productos que la empresa adquirio.
 El metodo de uso es sencillo, al ejecutar el codigo se iniciara un menu con 5 opciones, y a traves de una busqueda lineal y binaria el archivo organizara, modificara, agregara y eliminara productos de dicho inventario.
 El mismo tambien podra ser mostrado en su totalidad al elegir la opcion "Mostrar todo el inventario" y podra estar ordenado segun su valor, nombre, id o cantidad. Al iniciar la ejecucion del proyecto, podran observar
 que hay 4 productos agregados de forma automatica, estos estan ahi de forma de ejemplo y no alteraran la funcion de dicho inventario, pero permaneceran en el mismo a no ser que sean eliminados manualmente.
