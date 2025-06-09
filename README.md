@@ -6,6 +6,8 @@
 ### Fernando Aguiar (Comisión 1) fercovichargento@gmail.com
 
 
+Link al video de Youtube: https://www.youtube.com/watch?v=vYxPfsCSPZI 
+
 
 ## Profesor: Cinthia Rigoni
 ## Fecha de entrega: 09/06
